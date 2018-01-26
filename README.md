@@ -1,2 +1,6 @@
 # DesignPatterns
-Dans ce projet, j'essaie de prendre qqs exemples de quelques pattrons de conceptions.
+Dans ce projet, j'essaie de fournir quelques exemples de quelques pattrons de conceptions qui sont :
+
+- Stragtegy
+
+- Decorator
