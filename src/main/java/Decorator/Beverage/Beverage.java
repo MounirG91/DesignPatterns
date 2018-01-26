@@ -1,7 +1,7 @@
-package Decorator;
+package Decorator.Beverage;
 
 public abstract class Beverage {
-    String description;
+    private String description;
 
     public Beverage(String description) {
         this.description = description;
