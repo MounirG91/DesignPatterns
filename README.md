@@ -1,5 +1,6 @@
 # DesignPatterns
-Dans ce projet, j'essaie de fournir quelques exemples de quelques pattrons de conceptions qui sont :
+
+In this project, I'm trying to provide examples of some design patterns which are:
 
 - Stragtegy
 
